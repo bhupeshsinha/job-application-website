@@ -19,3 +19,5 @@ Some of the shortcuts like:
 5. link style.css : will link the css file with your html file.
 
 6. .container_name : will make a div for you.
+
+![image alt](https://github.com/bhupeshsinha/job-application-website/blob/a648ddda90175a2f856bcafee50c8200991d2bca/job_application.png)
